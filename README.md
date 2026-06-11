@@ -6,7 +6,11 @@ Projeto simples desenvolvido em Python para realizar o cadastro de usuários atr
 
 - Cadastro de nome
 - Cadastro de idade
+- Cadastro de cidade
+- Cadastro de profissão
+- Cadastro de altura
 - Cadastro de e-mail
+- Cadastro de hobbies
 - Exibição dos dados cadastrados
 
 ## Tecnologias Utilizadas
