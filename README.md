@@ -28,7 +28,7 @@ git clone hhttps://github.com/linconsous/cadastro_python
 2. Acesse a pasta do projeto:
 
 ```bash
-cd ficha-cadastro
+cd ficha_cadastro
 ```
 
 3. Execute o arquivo principal:
@@ -61,4 +61,5 @@ ficha-cadastro/
 
 ## Autor
 
-Desenvolvido para fins de estudo e prática em Python.
+Lincon Sousa
+- Desenvolvido para fins de estudo e prática em Python.
